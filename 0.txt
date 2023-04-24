@@ -4,16 +4,6 @@
  "mode": 2,
  "spider": "http://43.136.176.170:5705/liveslib",
  "drives": [
-{
-   "key": "dr_FreeOK",
-   "name": "FreeOK(drpy)",
-   "type": 3,
-   "api": "http://43.136.176.170:5705/libs/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "http://43.136.176.170:5705/js/FreeOK.js"
-  },
   {
    "name": "🙋丫仙女",
    "server": "http://alist.xiaoya.pro/",
