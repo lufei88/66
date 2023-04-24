@@ -4,6 +4,16 @@
  "mode": 2,
  "spider": "",
  "drives": [
+   {
+   "key": "csp_appysv2_2号币",
+   "name": "2号币(神马)",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://phoebe.cf/api.php/iptv/vod/"
+  },
   {
    "name": "🙋丫仙女",
    "server": "http://alist.xiaoya.pro/",
