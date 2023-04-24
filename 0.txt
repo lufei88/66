@@ -143,6 +143,16 @@
  ],
  "homepage": "https://gitcode.net/qq_32394351/dr_py",
  "sites": [
+   {
+   "key": "dr_FreeOK",
+   "name": "FreeOK(drpy)",
+   "type": 3,
+   "api": "http://43.136.176.170:5705/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "http://43.136.176.170:5705/js/FreeOK.js"
+  },
   {
    "key": "dr_哔哩影视",
    "name": "哔哩影视(drpy)",
@@ -432,16 +442,6 @@
    "quickSearch": 0,
    "filterable": 1,
    "ext": "http://43.136.176.170:5705/js/慢大浪.js"
-  },
-  {
-   "key": "dr_FreeOK",
-   "name": "FreeOK(drpy)",
-   "type": 3,
-   "api": "http://43.136.176.170:5705/libs/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "http://43.136.176.170:5705/js/FreeOK.js"
   },
   {
    "key": "dr_评书随身听",
