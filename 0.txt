@@ -1,8 +1,8 @@
 {
- "wallpaper": "http://43.136.176.170:5705/pics",
+ "wallpaper": "",
  "dr_count": 280,
  "mode": 2,
- "spider": "http://43.136.176.170:5705/liveslib",
+ "spider": "",
  "drives": [
   {
    "name": "🙋丫仙女",
