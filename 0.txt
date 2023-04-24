@@ -6882,19 +6882,15 @@
    }
   }
  ],
- "lives": [
-  {
-   "group": "redirect",
-   "channels": [
-    {
-     "name": "直播",
-     "urls": [
-      "proxy://do=live&type=txt&ext=aHR0cDovLzQzLjEzNi4xNzYuMTcwOjU3MDUvbGl2ZXM="
-     ]
-    }
-   ]
-  }
- ],
+      "lives": [
+        {
+		"name": "live",
+		"type": 0,
+		"url": "https://gitlab.com/aptv/1/-/raw/main/tvlive.txt",
+		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ],
+
  "sniffer": {
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27",
   "isVideoFormat": "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
