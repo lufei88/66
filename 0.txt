@@ -1,0 +1,10 @@
+  {
+   "key": "dr_神马影视",
+   "name": "神马影视(drpy)",
+   "type": 3,
+   "api": "http://43.136.176.170:5705/libs/drpy.min.js",
+   "searchable": 2,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "http://43.136.176.170:5705/js/神马影视.js"
+  },
