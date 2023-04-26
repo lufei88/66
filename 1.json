@@ -319,9 +319,9 @@
             "url": "Sequence"
         },
   {
-   "name": "万能",
-   "url": "http://43.136.176.170:5705/parse/api/万能.js?url=",
-   "type": 1,
+   "name": "虾米",
+   "url": "https://dm.xmflv.com:4433/?url=",
+   "type": 0,
    "ext": {
     "flag": [
      "qiyi",
@@ -352,6 +352,10 @@
      "User-Agent": "Mozilla/5.0"
     }
    },
+   "header": {
+    "User-Agent": "Mozilla/5.0"
+   }
+  },
    "header": {
     "User-Agent": "Mozilla/5.0"
    }
