@@ -321,7 +321,7 @@
   {
    "name": "虾米",
    "url": "https://dm.xmflv.com:4433/?url=",
-   "type": 3,
+   "type": 0,
    "ext": {
     "flag": [
      "qiyi",
