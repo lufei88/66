@@ -1,6 +1,6 @@
 
 {
-    "spider": "./spider.jar",
+    "spider": "https://raw.githubusercontent.com/lufei88/66/main/spider.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
